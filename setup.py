@@ -53,9 +53,9 @@ setup(
 
     url='https://github.com/rewardStyle/py-envdefault-argparse',  # Optional
 
-    author='rewardStyle DevOps',  # Optional
+    author='Joseph Copenhaver',  # Optional
 
-    author_email='devops@rewardstyle.com',  # Optional
+    author_email='joseph.copenhaver@rewardstyle.com',  # Optional
 
     packages=find_packages(exclude=['Pipfile', 'Pipfile.lock']),  # Required
 

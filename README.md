@@ -22,7 +22,7 @@ or with flags as direct arguments to the application on the command line.
 
 ```python
 import argparse
-from envdefault import envdefault
+from envdefault.envdefault import EnvDefault
 
 
 CONFIG = None

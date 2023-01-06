@@ -8,9 +8,9 @@ environment variables, and/or `.env` files.
 ## Installation
 
 ```bash
-pipenv install git+git://github.com/rewardStyle/py-envdefault-argparse.git#egg=envdefault
+pipenv install git+git@github.com:rewardStyle/py-envdefault-argparse.git#egg=envdefault
 # To install and lock all dependencies properly, install a specific sha:
-pipenv install -e git+git://github.com/rewardStyle/py-envdefault-argparse.git@<GIT_SHA>#egg=envdefault
+pipenv install -e git+git@github.com:rewardStyle/py-envdefault-argparse.git@<GIT_SHA>#egg=envdefault
 ```
 
 ## Use Cases
